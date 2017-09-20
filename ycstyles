@@ -1,0 +1,46 @@
+<!doctype html>
+
+<head>
+	<meta charset="utf-8">
+	<title>Theme Presentaion</title>
+	<style>
+		hr{border:2px solid black;}
+		body{ background: yellow; }
+	</style> 
+
+</head>
+<body>
+	<header>	
+		<hr>
+		<h1>주제발표 -포트폴리오(아카이브) 사이트 만들기!</h1>
+		<p>컨셉은 보여주고X연락한다.<br>심플한 포트폴리오 사이트 만들기</p> 
+		<hr>	
+	</header>
+	<article>
+		<h2> 발표 구성</h2>
+		<p>1.사이트 구성	
+			<ul>
+				<li>소개페이지(About/Contact)</li>
+				<li>시작페이지(Startpage)</li>
+				<li>작업페이지(Works area)</li>
+				<li>저작권페이지(footer)</li>
+			</ul>		
+		</p>
+
+		<img src="http://blogfiles.naver.net/MjAxNzA5MjFfMjAy/MDAxNTA1OTI0NDY4MDg0.gRDg3t5un4iFYhrp1g1xLJv4kuSZuI7Xbo2nvONSSfQg.6sf_7c_zMCo8sEdE8Cc2byJUgKvzhyiXeIDg0I_oVL8g.JPEG.snqotm/%ED%8F%AC%ED%8A%B8%ED%8F%B4%EB%A6%AC%EC%98%A4-%EC%A0%84%EA%B0%9C%EB%8F%84.jpg.">
+		<p>2.포트폴리오에 들어갈 그림들.</p>
+			<ol>
+				<li>그림1</li>
+				<img src="http://blogfiles.naver.net/MjAxNzA5MjFfMTA3/MDAxNTA1OTI0NDY4Mzg0.o6Wz3-ZI50CcJs3iCEMKUZIsZ6rHl5xDISURv7Q1e_cg.TDb-pMoALpi0LgOmFdMg5BEv72-AA2iop_HfJrNxDrgg.JPEG.snqotm/001.jpg.">
+				<li>그림2</li>
+				<img src="http://blogfiles.naver.net/MjAxNzA5MjFfMTI0/MDAxNTA1OTI0NDY4NjE0.cjedFSeCumMeS5qQ9oLdqlPnTCUd7vM8pKvDjoeOtUog.ObSScEBOV-Z7C3IuCeQFh05DtQHR_EsXtTw4urKPr8sg.JPEG.snqotm/004.jpg.">
+				<li>그림3</li>
+				<img src="http://blogfiles.naver.net/MjAxNzA5MjFfMyAg/MDAxNTA1OTI0NDY5MDc0.mTObGz7D0NXZee7jq9fVdPYmtIiBaklzzZCur3MEkYYg.3b52EmUAkvHiQbk3La4EZaPP4KYoOFUbTb9OJvBa1q8g.JPEG.snqotm/%EC%88%98%EC%A0%95%EB%90%A8_015.jpg.">
+		<p>3.레퍼런스들			
+			<ul>
+				<li>https://www.mildd.com/</li>
+				<li>https://claudiammsinatra.wixsite.com/onironautica</li>
+			</ul>		
+		</p>
+	</article>	
+</body>
